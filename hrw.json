@@ -1,0 +1,11 @@
+{
+  "router": {
+    "address": "192.168.8.1",
+    "password": "S3cr3t"
+  },
+  "interval": 15,
+  "ping": {
+    "address": "always.on.ip",
+    "timeout": 5
+  }
+}
